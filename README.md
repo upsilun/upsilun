@@ -1,5 +1,5 @@
 <p align="center">
-  <img align="center" href="https://github.com/upsilun" src="/programmer-programming.gif" style="width:25rem;"/><br><br>
+  <!--<img align="center" href="https://github.com/upsilun" src="/" style="width:25rem;"/><br><br>-->
   <!--<img align="center" href="https://google.com" src="https://discord.c99.nl/widget/theme-4/446999223183998987.png" /><br><br>-->
 </p>
 </p>

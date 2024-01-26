@@ -1,11 +1,24 @@
 <p align="center">
   <!--<img align="center" href="https://github.com/upsilun" src="/" style="width:25rem;"/><br><br>-->
-  <img align="center" href="https://google.com" src="https://discord.c99.nl/widget/theme-4/446999223183998987.png" /><br><br>
+  <h1>Contact Me</h1>
+  
+  <h3>Discord</h3>
+  <img align="center" src="https://discord.c99.nl/widget/theme-4/446999223183998987.png" />
+  <h3>Social Media</h3>
+  <img href="https://google.com/" src="https://skillicons.dev/icons?i=linkedin,twitter,discord,gmail">
+  <details>
+  <summary><h3>Social Media</h3><br><img href="https://google.com/" src="https://skillicons.dev/icons?i=linkedin,twitter,discord,gmail"></summary>
+  <br>
+  This is how you dropdown.
+  </details>
 </p>
 </p>
 
-<p align="center"> <!-- <img src="https://komarev.com/ghpvc/?username=upsilun&label=Profile%20views&color=0e75b6&style=flat" alt="upsilun" />--> 
-    <img href="https://google.com/" src="https://skillicons.dev/icons?i=instagram,twitter,linkedin"><br>
+
+[![Alt text](https://skillicons.dev/icons?i=linkedin,twitter,discord,gmail)](https://google.com/)
+
+<p align="center"> 
+  <!-- <img src="https://komarev.com/ghpvc/?username=upsilun&label=Profile%20views&color=0e75b6&style=flat" alt="upsilun" />--> 
     <!--<img src="https://skillicons.dev/icons?i=cpp,c,cs,arduino">-->
     <br>
     <!--<img src="https://skillicons.dev/icons?i=js,html,css,electron,firebase,express">-->

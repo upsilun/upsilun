@@ -1,19 +1,17 @@
-<p align="center">
-  <!--<img align="center" href="https://github.com/upsilun" src="/" style="width:25rem;"/><br><br>-->
   <h1>Contact Me</h1>
   
   <h3>Discord</h3>
   <img align="center" src="https://discord.c99.nl/widget/theme-4/446999223183998987.png" />
   <h3>Social Media</h3>
-</p>
 
-<a href="https://google.com/" target="_blank"> 
-  <img src="https://skillicons.dev/icons?i=linkedin,twitter,discord,gmail" alt="Alt text">
-</a>
+[![linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/uozeed/)
+[![twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/u0zeed)
+[![discord](https://skillicons.dev/icons?i=discord)](https://dsc.gg/95)<br>
 
-[![Alt text](https://skillicons.dev/icons?i=linkedin,twitter,discord,gmail)](https://google.com/)
+[![gmail](https://skillicons.dev/icons?i=gmail)]() 
 
-[![Alt text](https://skillicons.dev/icons?i=linkedin,twitter,discord,gmail)](https://google.com/)
+
+
 
 <p align="center"> 
   <!-- <img src="https://komarev.com/ghpvc/?username=upsilun&label=Profile%20views&color=0e75b6&style=flat" alt="upsilun" />--> 

@@ -11,6 +11,7 @@
   <img src="https://skillicons.dev/icons?i=linkedin,twitter,discord,gmail" alt="Alt text">
 </a>
 
+[![Alt text](https://skillicons.dev/icons?i=linkedin,twitter,discord,gmail)](https://google.com/)
 
 [![Alt text](https://skillicons.dev/icons?i=linkedin,twitter,discord,gmail)](https://google.com/)
 

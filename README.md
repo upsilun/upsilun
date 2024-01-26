@@ -5,14 +5,11 @@
   <h3>Discord</h3>
   <img align="center" src="https://discord.c99.nl/widget/theme-4/446999223183998987.png" />
   <h3>Social Media</h3>
-  <img href="https://google.com/" src="https://skillicons.dev/icons?i=linkedin,twitter,discord,gmail">
-  <details>
-  <summary><h3>Social Media</h3><br><img href="https://google.com/" src="https://skillicons.dev/icons?i=linkedin,twitter,discord,gmail"></summary>
-  <br>
-  This is how you dropdown.
-  </details>
 </p>
-</p>
+
+<a href="https://google.com/" target="_blank"> 
+  <img src="https://skillicons.dev/icons?i=linkedin,twitter,discord,gmail" alt="Alt text">
+</a>
 
 
 [![Alt text](https://skillicons.dev/icons?i=linkedin,twitter,discord,gmail)](https://google.com/)

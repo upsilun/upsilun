@@ -9,7 +9,7 @@
 [![discord](https://skillicons.dev/icons?i=discord)](https://dsc.gg/95)<br>
 
 <img align="left" src="https://skillicons.dev/icons?i=gmail" />
-<h3 align="left">uozeed@gmail.com</h3>
+<h2 align="left">uozeed@gmail.com</h2>
 </details>
 
 

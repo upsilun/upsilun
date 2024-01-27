@@ -1,4 +1,4 @@
-  <h1>Contact Me</h1>
+<h2>Contact Me 📬</h2></summary>
   
   <h3>Discord</h3>
   <img align="center" src="https://discord.c99.nl/widget/theme-4/446999223183998987.png" />
@@ -8,7 +8,9 @@
 [![twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/u0zeed)
 [![discord](https://skillicons.dev/icons?i=discord)](https://dsc.gg/95)<br>
 
-[![gmail](https://skillicons.dev/icons?i=gmail)]() 
+<img align="left" src="https://skillicons.dev/icons?i=gmail" />
+<h3 align="left">uozeed@gmail.com</h3>
+</details>
 
 
 

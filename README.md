@@ -1,15 +1,15 @@
 <h2>Contact Me 📬</h2></summary>
   
-  <h3>Discord</h3>
+  <!--<h3>Discord</h3>
   <img align="center" src="https://discord.c99.nl/widget/theme-4/446999223183998987.png" />
-  <h3>Social Media</h3>
+  <h3>Social Media</h3>-->
 
 [![linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/uozeed/)
 [![twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/u0zeed)
-[![discord](https://skillicons.dev/icons?i=discord)](https://dsc.gg/95)<br>
+<!--[![discord](https://skillicons.dev/icons?i=discord)](https://dsc.gg/95)<br>-->
 
-<img align="left" src="https://skillicons.dev/icons?i=gmail" />
-<h2 align="left">uozeed@gmail.com</h2>
+<!--<img align="left" src="https://skillicons.dev/icons?i=gmail" />
+<h2 align="left">uozeed@gmail.com</h2>-->
 </details>
 
 

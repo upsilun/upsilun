@@ -1,3 +1,6 @@
+ # About Me
+I'm Yazeed Alahmad, a Computer Engineering student at [KKU](https://www.linkedin.com/in/uozeed/). intersted in Electronics ⚡ and love exploring the world of Embedded Systems 🤖.
+
 <h2>Contact Me 📬</h2></summary>
   
   <!--<h3>Discord</h3>

@@ -1,5 +1,5 @@
  # About Me
-I'm **Yazeed Alahmad**, a Computer Engineering student at [KKU](https://en.wikipedia.org/wiki/King_Khalid_University). intersted in Electronics⚡and love exploring the world of Embedded Systems 🖨️.
+I'm **Yazeed Alahmad**, a Computer Engineering student at [KKU](https://en.wikipedia.org/wiki/King_Khalid_University). intersted in Electronics⚡and love exploring the world of Embedded Systems 🤖.
 
 <h2>Contact Me 📬</h2></summary>
   

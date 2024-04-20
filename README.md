@@ -14,9 +14,11 @@ I'm **Yazeed Alahmad**, a Computer Engineering student at [KKU](https://en.wikip
 <!--<img align="left" src="https://skillicons.dev/icons?i=gmail" />
 <h2 align="left">uozeed@gmail.com</h2>-->
 </details>
+<p align="center"> 
 
-<p><img align="center" style="width: 22rem;" src="https://github-readme-streak-stats.herokuapp.com/?user=upsilun&" alt="upsilun"/></p>
-
+<img align="center" style="width: 22rem;" src="https://github-readme-streak-stats.herokuapp.com/?user=upsilun" alt="upsilun"/>
+<!--<img align="center" style="width: 16rem;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" alt="upsilun"/>-->
+</p>
 
 
 

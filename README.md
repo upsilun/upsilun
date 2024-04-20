@@ -15,6 +15,8 @@ I'm **Yazeed Alahmad**, a Computer Engineering student at [KKU](https://en.wikip
 <h2 align="left">uozeed@gmail.com</h2>-->
 </details>
 
+<p><img align="center" style="width: 22rem;" src="https://github-readme-streak-stats.herokuapp.com/?user=upsilun&" alt="upsilun"/></p>
+
 
 
 

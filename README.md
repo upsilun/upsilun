@@ -1,3 +1,4 @@
+[![logo](https://em-content.zobj.net/source/apple/419/cowboy-hat-face_1f920.png)]()
  # About Me
 I'm **Yazeed Alahmad**, a Computer Engineering student at [KKU](https://en.wikipedia.org/wiki/King_Khalid_University). intersted in Electronics⚡and love exploring the world of Embedded Systems 🤖.
 
